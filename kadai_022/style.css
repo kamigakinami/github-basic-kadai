@@ -13,7 +13,7 @@ h1 {
     color: rgb(255, 255, 255);
 }
 main {
-    padding: 10px;
+    margin: 10px;
 }
 #parent {
     display: flex;
